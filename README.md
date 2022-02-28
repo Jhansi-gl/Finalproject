@@ -10,6 +10,11 @@ Step 4: Launch the Azure Machine Learning Studio.Then you see the webpage below 
 ![create3](https://user-images.githubusercontent.com/83536726/156000246-d124c8dd-4cb0-446c-90f4-6a7d85fa774e.png)
 Step 5: Now create notebook and compute function and start developing the model.
 ![create4](https://user-images.githubusercontent.com/83536726/156000250-0f2ca711-533c-47e2-9161-dcddfff6f349.png)
+## Plot of Original Blood Sugar Level:
+![deploy3](https://user-images.githubusercontent.com/83536726/156012864-326ddb60-9f51-40b4-b635-c473a3464e62.png)
+## Plot of Predicted Blood Sugar Level:
+![deploy2](https://user-images.githubusercontent.com/83536726/156012855-45f6a711-dbb5-4ac1-83b9-15adbbd082dc.png)
+
 ## Azure Services Used In This Project 
 ##### Azure Open Datasets
 ![toolsdataset](https://user-images.githubusercontent.com/83536726/156002221-25d21e93-28f9-4ce0-ad80-f1f257c8036b.png)  
