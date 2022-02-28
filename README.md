@@ -1,4 +1,15 @@
 # Finalproject
+## CREATING AND DEPLOYING AZURE MACHINE LEARNING SERVICE:
+Step 1: Visit the Microsoft AZURE website and sign up.
+Step 2: Click on the search area and search for MACHINE LEARNING  and select it.
+![create](https://user-images.githubusercontent.com/83536726/156000230-667f22cd-0e97-4449-b71f-509c8d3a4891.png)
+
+Step 3: Now click on create and create and deploy the MACHINE LEARNING. After filing all the details click on REVIEW+CREATE.
+![create2](https://user-images.githubusercontent.com/83536726/156000243-ee87a37f-3385-4cd3-8bc2-3fcca744e226.png)
+Step 4: Launch the Azure Machine Learning Studio.Then you see the webpage below in a new tab.
+![create3](https://user-images.githubusercontent.com/83536726/156000246-d124c8dd-4cb0-446c-90f4-6a7d85fa774e.png)
+Step 5: Now create notebook and compute function and start developing the model.
+![create4](https://user-images.githubusercontent.com/83536726/156000250-0f2ca711-533c-47e2-9161-dcddfff6f349.png)
 ## Azure Services Used In This Project 
 ##### Azure Open Datasets
 ![toolsdataset](https://user-images.githubusercontent.com/83536726/156002221-25d21e93-28f9-4ce0-ad80-f1f257c8036b.png)  
