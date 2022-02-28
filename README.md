@@ -1,7 +1,7 @@
 # FINAL PROJECT
 ## Diabetes Dataset
 The Diabetes dataset has 442 samples with 10 features, making it ideal for getting started with machine learning algorithms. It's one of the most popular Scikit Learn Toy Datasets.Microsoft provides Azure Open Datasets on an “as is” basis.The dataset may include data sourced from Microsoft.
-## Creating and Deploying AZURE MACHINE LEARNING SERVICE:
+## Creating and Deploying Azure Machine Learning Service:
 Step 1: Visit the Microsoft AZURE website and sign up.
 Step 2: Click on the search area and search for MACHINE LEARNING  and select it.
 ![create](https://user-images.githubusercontent.com/83536726/156000230-667f22cd-0e97-4449-b71f-509c8d3a4891.png)
